@@ -1,0 +1,35 @@
+======================================================================
+TESTE RÁPIDO - ALGORITMO GENÉTICO TSP 3D
+======================================================================
+
+Pontos: 161
+Grupos: 5
+População: 100
+Gerações máximas: 200
+Prob. recombinação: 0.88
+Prob. mutação: 0.01
+
+DISTRIBUIÇÃO POR GRUPO:
+  Grupo 0: 1 pontos
+  Grupo 1: 40 pontos
+  Grupo 2: 40 pontos
+  Grupo 3: 40 pontos
+  Grupo 4: 40 pontos
+
+RESULTADO:
+Distância inicial: 13343.16
+Distância final: 4865.59
+Melhoria: 8477.57 (63.5%)
+Gerações executadas: 200
+
+ANÁLISE DE GRUPOS:
+Transições entre grupos: 10
+Top 5 transições mais frequentes:
+  Grupo 2 → Grupo 1: 6 vezes
+  Grupo 1 → Grupo 2: 5 vezes
+  Grupo 3 → Grupo 4: 4 vezes
+  Grupo 1 → Grupo 3: 3 vezes
+  Grupo 4 → Grupo 3: 3 vezes
+
+Melhor rota (primeiros 30): [  0  99 153 137   4 121  11 140  34  66  72 158  35  38   5 132 144 143
+  41 157  49  40  17  32  76  28   7  33 150  58]

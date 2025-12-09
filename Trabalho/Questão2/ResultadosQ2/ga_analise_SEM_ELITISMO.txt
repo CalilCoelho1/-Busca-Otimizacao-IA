@@ -3,50 +3,50 @@ ANÁLISE: 30 EXECUÇÕES SEM ELITISMO
 ======================================================================
 
 GERAÇÕES ATÉ CONVERGIR:
-  Mínimo: 169
+  Mínimo: 179
   Máximo: 300
-  Média: 284.5
-  Moda: 300 (ocorreu 24 vezes)
+  Média: 292.9
+  Moda: 300 (ocorreu 27 vezes)
 
 DISTÂNCIA FINAL:
-  Melhor: 3687.06
-  Pior: 6282.47
-  Média: 4891.83
-  Desvio padrão: 575.28
+  Melhor: 3493.28
+  Pior: 6081.58
+  Média: 4773.62
+  Desvio padrão: 573.29
 
 TEMPO:
-  Total: 902.68s
-  Médio por run: 30.09s
+  Total: 859.99s
+  Médio por run: 28.67s
 
 DETALHAMENTO POR RUN:
 ----------------------------------------------------------------------
-Run  1: Ger=300, Dist= 3770.57, Tempo=43.33s
-Run  2: Ger=300, Dist= 5005.84, Tempo=35.24s
-Run  3: Ger=300, Dist= 4826.89, Tempo=29.84s
-Run  4: Ger=300, Dist= 4842.20, Tempo=30.22s
-Run  5: Ger=256, Dist= 5161.01, Tempo=25.41s
-Run  6: Ger=300, Dist= 5035.09, Tempo=29.33s
-Run  7: Ger=300, Dist= 4913.68, Tempo=38.84s
-Run  8: Ger=300, Dist= 5520.41, Tempo=34.50s
-Run  9: Ger=300, Dist= 5537.73, Tempo=40.42s
-Run 10: Ger=300, Dist= 3687.06, Tempo=35.20s
-Run 11: Ger=300, Dist= 4732.81, Tempo=28.92s
-Run 12: Ger=300, Dist= 5838.34, Tempo=29.24s
-Run 13: Ger=300, Dist= 4049.73, Tempo=28.91s
-Run 14: Ger=300, Dist= 4764.75, Tempo=29.09s
-Run 15: Ger=169, Dist= 6282.47, Tempo=16.71s
-Run 16: Ger=224, Dist= 4884.68, Tempo=24.32s
-Run 17: Ger=263, Dist= 4620.48, Tempo=30.20s
-Run 18: Ger=300, Dist= 4304.50, Tempo=30.53s
-Run 19: Ger=224, Dist= 5147.16, Tempo=21.71s
-Run 20: Ger=300, Dist= 5197.47, Tempo=29.17s
-Run 21: Ger=300, Dist= 5080.90, Tempo=28.93s
-Run 22: Ger=300, Dist= 5576.38, Tempo=28.80s
-Run 23: Ger=300, Dist= 4682.35, Tempo=28.86s
-Run 24: Ger=300, Dist= 5661.73, Tempo=29.13s
-Run 25: Ger=198, Dist= 4838.81, Tempo=19.44s
-Run 26: Ger=300, Dist= 4669.25, Tempo=36.46s
-Run 27: Ger=300, Dist= 4210.29, Tempo=29.85s
-Run 28: Ger=300, Dist= 4696.12, Tempo=31.01s
-Run 29: Ger=300, Dist= 4234.11, Tempo=29.57s
-Run 30: Ger=300, Dist= 4982.01, Tempo=29.50s
+Run  1: Ger=300, Dist= 5503.48, Tempo=29.30s
+Run  2: Ger=300, Dist= 3677.26, Tempo=29.34s
+Run  3: Ger=300, Dist= 5112.61, Tempo=29.16s
+Run  4: Ger=300, Dist= 4422.76, Tempo=29.05s
+Run  5: Ger=300, Dist= 4581.86, Tempo=28.94s
+Run  6: Ger=300, Dist= 4812.46, Tempo=28.93s
+Run  7: Ger=300, Dist= 5122.40, Tempo=29.01s
+Run  8: Ger=300, Dist= 4298.67, Tempo=29.25s
+Run  9: Ger=300, Dist= 4146.65, Tempo=29.09s
+Run 10: Ger=300, Dist= 4754.81, Tempo=29.12s
+Run 11: Ger=300, Dist= 5123.71, Tempo=29.84s
+Run 12: Ger=300, Dist= 3951.85, Tempo=29.25s
+Run 13: Ger=300, Dist= 4576.63, Tempo=29.54s
+Run 14: Ger=300, Dist= 4804.71, Tempo=29.69s
+Run 15: Ger=228, Dist= 4524.70, Tempo=22.72s
+Run 16: Ger=300, Dist= 5084.76, Tempo=29.28s
+Run 17: Ger=300, Dist= 4684.72, Tempo=29.47s
+Run 18: Ger=300, Dist= 4685.03, Tempo=29.77s
+Run 19: Ger=300, Dist= 4979.51, Tempo=29.24s
+Run 20: Ger=300, Dist= 4887.11, Tempo=29.52s
+Run 21: Ger=300, Dist= 5668.17, Tempo=29.65s
+Run 22: Ger=300, Dist= 4097.26, Tempo=29.70s
+Run 23: Ger=300, Dist= 6081.58, Tempo=29.20s
+Run 24: Ger=300, Dist= 5348.55, Tempo=29.43s
+Run 25: Ger=300, Dist= 4158.03, Tempo=29.59s
+Run 26: Ger=179, Dist= 5252.71, Tempo=17.69s
+Run 27: Ger=300, Dist= 5196.90, Tempo=29.65s
+Run 28: Ger=279, Dist= 5329.86, Tempo=27.66s
+Run 29: Ger=300, Dist= 4846.48, Tempo=28.95s
+Run 30: Ger=300, Dist= 3493.28, Tempo=28.95s

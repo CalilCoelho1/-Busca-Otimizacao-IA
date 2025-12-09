@@ -4,14 +4,14 @@ COMPARAÇÃO FINAL: COM vs SEM ELITISMO
 
                           | SEM Elitismo | COM Elitismo
 ----------------------------------------------------------------------
-Gerações médias:          |        284.5 |        288.8
+Gerações médias:          |        292.9 |        289.3
 Gerações moda:            |          300 |          300
-Distância média:          |      4891.83 |      5384.64
-Melhor distância:         |      3687.06 |      4395.16
-Pior distância:           |      6282.47 |      6427.13
-Desvio padrão distância:  |       575.28 |       563.72
+Distância média:          |      4773.62 |      5503.14
+Melhor distância:         |      3493.28 |      4537.57
+Pior distância:           |      6081.58 |      6620.52
+Desvio padrão distância:  |       573.29 |       592.45
 
 CONCLUSÃO:
 ⚠ Elitismo NÃO melhora os resultados
-  Aumento médio de distância: 492.81 (+10.1%)
+  Aumento médio de distância: 729.52 (+15.3%)
   Possível causa: convergência prematura / perda de diversidade
