@@ -1,0 +1,118 @@
+92 SOLU��ES �NICAS DO PROBLEMA DAS 8 RAINHAS
+======================================================================
+
+Solu��o  1: [np.int32(1), np.int32(5), np.int32(8), np.int32(6), np.int32(3), np.int32(7), np.int32(2), np.int32(4)]
+Solu��o  2: [np.int32(1), np.int32(6), np.int32(8), np.int32(3), np.int32(7), np.int32(4), np.int32(2), np.int32(5)]
+Solu��o  3: [np.int32(1), np.int32(7), np.int32(4), np.int32(6), np.int32(8), np.int32(2), np.int32(5), np.int32(3)]
+Solu��o  4: [np.int32(1), np.int32(7), np.int32(5), np.int32(8), np.int32(2), np.int32(4), np.int32(6), np.int32(3)]
+Solu��o  5: [np.int32(2), np.int32(4), np.int32(6), np.int32(8), np.int32(3), np.int32(1), np.int32(7), np.int32(5)]
+Solu��o  6: [np.int32(2), np.int32(5), np.int32(7), np.int32(1), np.int32(3), np.int32(8), np.int32(6), np.int32(4)]
+Solu��o  7: [np.int32(2), np.int32(5), np.int32(7), np.int32(4), np.int32(1), np.int32(8), np.int32(6), np.int32(3)]
+Solu��o  8: [np.int32(2), np.int32(6), np.int32(1), np.int32(7), np.int32(4), np.int32(8), np.int32(3), np.int32(5)]
+Solu��o  9: [np.int32(2), np.int32(6), np.int32(8), np.int32(3), np.int32(1), np.int32(4), np.int32(7), np.int32(5)]
+Solu��o 10: [np.int32(2), np.int32(7), np.int32(3), np.int32(6), np.int32(8), np.int32(5), np.int32(1), np.int32(4)]
+Solu��o 11: [np.int32(2), np.int32(7), np.int32(5), np.int32(8), np.int32(1), np.int32(4), np.int32(6), np.int32(3)]
+Solu��o 12: [np.int32(2), np.int32(8), np.int32(6), np.int32(1), np.int32(3), np.int32(5), np.int32(7), np.int32(4)]
+Solu��o 13: [np.int32(3), np.int32(1), np.int32(7), np.int32(5), np.int32(8), np.int32(2), np.int32(4), np.int32(6)]
+Solu��o 14: [np.int32(3), np.int32(5), np.int32(2), np.int32(8), np.int32(1), np.int32(7), np.int32(4), np.int32(6)]
+Solu��o 15: [np.int32(3), np.int32(5), np.int32(2), np.int32(8), np.int32(6), np.int32(4), np.int32(7), np.int32(1)]
+Solu��o 16: [np.int32(3), np.int32(5), np.int32(7), np.int32(1), np.int32(4), np.int32(2), np.int32(8), np.int32(6)]
+Solu��o 17: [np.int32(3), np.int32(5), np.int32(8), np.int32(4), np.int32(1), np.int32(7), np.int32(2), np.int32(6)]
+Solu��o 18: [np.int32(3), np.int32(6), np.int32(2), np.int32(5), np.int32(8), np.int32(1), np.int32(7), np.int32(4)]
+Solu��o 19: [np.int32(3), np.int32(6), np.int32(2), np.int32(7), np.int32(1), np.int32(4), np.int32(8), np.int32(5)]
+Solu��o 20: [np.int32(3), np.int32(6), np.int32(2), np.int32(7), np.int32(5), np.int32(1), np.int32(8), np.int32(4)]
+Solu��o 21: [np.int32(3), np.int32(6), np.int32(4), np.int32(1), np.int32(8), np.int32(5), np.int32(7), np.int32(2)]
+Solu��o 22: [np.int32(3), np.int32(6), np.int32(4), np.int32(2), np.int32(8), np.int32(5), np.int32(7), np.int32(1)]
+Solu��o 23: [np.int32(3), np.int32(6), np.int32(8), np.int32(1), np.int32(4), np.int32(7), np.int32(5), np.int32(2)]
+Solu��o 24: [np.int32(3), np.int32(6), np.int32(8), np.int32(1), np.int32(5), np.int32(7), np.int32(2), np.int32(4)]
+Solu��o 25: [np.int32(3), np.int32(6), np.int32(8), np.int32(2), np.int32(4), np.int32(1), np.int32(7), np.int32(5)]
+Solu��o 26: [np.int32(3), np.int32(7), np.int32(2), np.int32(8), np.int32(5), np.int32(1), np.int32(4), np.int32(6)]
+Solu��o 27: [np.int32(3), np.int32(7), np.int32(2), np.int32(8), np.int32(6), np.int32(4), np.int32(1), np.int32(5)]
+Solu��o 28: [np.int32(3), np.int32(8), np.int32(4), np.int32(7), np.int32(1), np.int32(6), np.int32(2), np.int32(5)]
+Solu��o 29: [np.int32(4), np.int32(1), np.int32(5), np.int32(8), np.int32(2), np.int32(7), np.int32(3), np.int32(6)]
+Solu��o 30: [np.int32(4), np.int32(1), np.int32(5), np.int32(8), np.int32(6), np.int32(3), np.int32(7), np.int32(2)]
+Solu��o 31: [np.int32(4), np.int32(2), np.int32(5), np.int32(8), np.int32(6), np.int32(1), np.int32(3), np.int32(7)]
+Solu��o 32: [np.int32(4), np.int32(2), np.int32(7), np.int32(3), np.int32(6), np.int32(8), np.int32(1), np.int32(5)]
+Solu��o 33: [np.int32(4), np.int32(2), np.int32(7), np.int32(3), np.int32(6), np.int32(8), np.int32(5), np.int32(1)]
+Solu��o 34: [np.int32(4), np.int32(2), np.int32(7), np.int32(5), np.int32(1), np.int32(8), np.int32(6), np.int32(3)]
+Solu��o 35: [np.int32(4), np.int32(2), np.int32(8), np.int32(5), np.int32(7), np.int32(1), np.int32(3), np.int32(6)]
+Solu��o 36: [np.int32(4), np.int32(2), np.int32(8), np.int32(6), np.int32(1), np.int32(3), np.int32(5), np.int32(7)]
+Solu��o 37: [np.int32(4), np.int32(6), np.int32(1), np.int32(5), np.int32(2), np.int32(8), np.int32(3), np.int32(7)]
+Solu��o 38: [np.int32(4), np.int32(6), np.int32(8), np.int32(2), np.int32(7), np.int32(1), np.int32(3), np.int32(5)]
+Solu��o 39: [np.int32(4), np.int32(6), np.int32(8), np.int32(3), np.int32(1), np.int32(7), np.int32(5), np.int32(2)]
+Solu��o 40: [np.int32(4), np.int32(7), np.int32(1), np.int32(8), np.int32(5), np.int32(2), np.int32(6), np.int32(3)]
+Solu��o 41: [np.int32(4), np.int32(7), np.int32(3), np.int32(8), np.int32(2), np.int32(5), np.int32(1), np.int32(6)]
+Solu��o 42: [np.int32(4), np.int32(7), np.int32(5), np.int32(2), np.int32(6), np.int32(1), np.int32(3), np.int32(8)]
+Solu��o 43: [np.int32(4), np.int32(7), np.int32(5), np.int32(3), np.int32(1), np.int32(6), np.int32(8), np.int32(2)]
+Solu��o 44: [np.int32(4), np.int32(8), np.int32(1), np.int32(3), np.int32(6), np.int32(2), np.int32(7), np.int32(5)]
+Solu��o 45: [np.int32(4), np.int32(8), np.int32(1), np.int32(5), np.int32(7), np.int32(2), np.int32(6), np.int32(3)]
+Solu��o 46: [np.int32(4), np.int32(8), np.int32(5), np.int32(3), np.int32(1), np.int32(7), np.int32(2), np.int32(6)]
+Solu��o 47: [np.int32(5), np.int32(1), np.int32(4), np.int32(6), np.int32(8), np.int32(2), np.int32(7), np.int32(3)]
+Solu��o 48: [np.int32(5), np.int32(1), np.int32(8), np.int32(4), np.int32(2), np.int32(7), np.int32(3), np.int32(6)]
+Solu��o 49: [np.int32(5), np.int32(1), np.int32(8), np.int32(6), np.int32(3), np.int32(7), np.int32(2), np.int32(4)]
+Solu��o 50: [np.int32(5), np.int32(2), np.int32(4), np.int32(6), np.int32(8), np.int32(3), np.int32(1), np.int32(7)]
+Solu��o 51: [np.int32(5), np.int32(2), np.int32(4), np.int32(7), np.int32(3), np.int32(8), np.int32(6), np.int32(1)]
+Solu��o 52: [np.int32(5), np.int32(2), np.int32(6), np.int32(1), np.int32(7), np.int32(4), np.int32(8), np.int32(3)]
+Solu��o 53: [np.int32(5), np.int32(2), np.int32(8), np.int32(1), np.int32(4), np.int32(7), np.int32(3), np.int32(6)]
+Solu��o 54: [np.int32(5), np.int32(3), np.int32(1), np.int32(6), np.int32(8), np.int32(2), np.int32(4), np.int32(7)]
+Solu��o 55: [np.int32(5), np.int32(3), np.int32(1), np.int32(7), np.int32(2), np.int32(8), np.int32(6), np.int32(4)]
+Solu��o 56: [np.int32(5), np.int32(3), np.int32(8), np.int32(4), np.int32(7), np.int32(1), np.int32(6), np.int32(2)]
+Solu��o 57: [np.int32(5), np.int32(7), np.int32(1), np.int32(3), np.int32(8), np.int32(6), np.int32(4), np.int32(2)]
+Solu��o 58: [np.int32(5), np.int32(7), np.int32(1), np.int32(4), np.int32(2), np.int32(8), np.int32(6), np.int32(3)]
+Solu��o 59: [np.int32(5), np.int32(7), np.int32(2), np.int32(4), np.int32(8), np.int32(1), np.int32(3), np.int32(6)]
+Solu��o 60: [np.int32(5), np.int32(7), np.int32(2), np.int32(6), np.int32(3), np.int32(1), np.int32(4), np.int32(8)]
+Solu��o 61: [np.int32(5), np.int32(7), np.int32(2), np.int32(6), np.int32(3), np.int32(1), np.int32(8), np.int32(4)]
+Solu��o 62: [np.int32(5), np.int32(7), np.int32(4), np.int32(1), np.int32(3), np.int32(8), np.int32(6), np.int32(2)]
+Solu��o 63: [np.int32(5), np.int32(8), np.int32(4), np.int32(1), np.int32(3), np.int32(6), np.int32(2), np.int32(7)]
+Solu��o 64: [np.int32(5), np.int32(8), np.int32(4), np.int32(1), np.int32(7), np.int32(2), np.int32(6), np.int32(3)]
+Solu��o 65: [np.int32(6), np.int32(1), np.int32(5), np.int32(2), np.int32(8), np.int32(3), np.int32(7), np.int32(4)]
+Solu��o 66: [np.int32(6), np.int32(2), np.int32(7), np.int32(1), np.int32(3), np.int32(5), np.int32(8), np.int32(4)]
+Solu��o 67: [np.int32(6), np.int32(2), np.int32(7), np.int32(1), np.int32(4), np.int32(8), np.int32(5), np.int32(3)]
+Solu��o 68: [np.int32(6), np.int32(3), np.int32(1), np.int32(7), np.int32(5), np.int32(8), np.int32(2), np.int32(4)]
+Solu��o 69: [np.int32(6), np.int32(3), np.int32(1), np.int32(8), np.int32(4), np.int32(2), np.int32(7), np.int32(5)]
+Solu��o 70: [np.int32(6), np.int32(3), np.int32(1), np.int32(8), np.int32(5), np.int32(2), np.int32(4), np.int32(7)]
+Solu��o 71: [np.int32(6), np.int32(3), np.int32(5), np.int32(7), np.int32(1), np.int32(4), np.int32(2), np.int32(8)]
+Solu��o 72: [np.int32(6), np.int32(3), np.int32(5), np.int32(8), np.int32(1), np.int32(4), np.int32(2), np.int32(7)]
+Solu��o 73: [np.int32(6), np.int32(3), np.int32(7), np.int32(2), np.int32(4), np.int32(8), np.int32(1), np.int32(5)]
+Solu��o 74: [np.int32(6), np.int32(3), np.int32(7), np.int32(2), np.int32(8), np.int32(5), np.int32(1), np.int32(4)]
+Solu��o 75: [np.int32(6), np.int32(3), np.int32(7), np.int32(4), np.int32(1), np.int32(8), np.int32(2), np.int32(5)]
+Solu��o 76: [np.int32(6), np.int32(4), np.int32(1), np.int32(5), np.int32(8), np.int32(2), np.int32(7), np.int32(3)]
+Solu��o 77: [np.int32(6), np.int32(4), np.int32(2), np.int32(8), np.int32(5), np.int32(7), np.int32(1), np.int32(3)]
+Solu��o 78: [np.int32(6), np.int32(4), np.int32(7), np.int32(1), np.int32(3), np.int32(5), np.int32(2), np.int32(8)]
+Solu��o 79: [np.int32(6), np.int32(4), np.int32(7), np.int32(1), np.int32(8), np.int32(2), np.int32(5), np.int32(3)]
+Solu��o 80: [np.int32(6), np.int32(8), np.int32(2), np.int32(4), np.int32(1), np.int32(7), np.int32(5), np.int32(3)]
+Solu��o 81: [np.int32(7), np.int32(1), np.int32(3), np.int32(8), np.int32(6), np.int32(4), np.int32(2), np.int32(5)]
+Solu��o 82: [np.int32(7), np.int32(2), np.int32(4), np.int32(1), np.int32(8), np.int32(5), np.int32(3), np.int32(6)]
+Solu��o 83: [np.int32(7), np.int32(2), np.int32(6), np.int32(3), np.int32(1), np.int32(4), np.int32(8), np.int32(5)]
+Solu��o 84: [np.int32(7), np.int32(3), np.int32(1), np.int32(6), np.int32(8), np.int32(5), np.int32(2), np.int32(4)]
+Solu��o 85: [np.int32(7), np.int32(3), np.int32(8), np.int32(2), np.int32(5), np.int32(1), np.int32(6), np.int32(4)]
+Solu��o 86: [np.int32(7), np.int32(4), np.int32(2), np.int32(5), np.int32(8), np.int32(1), np.int32(3), np.int32(6)]
+Solu��o 87: [np.int32(7), np.int32(4), np.int32(2), np.int32(8), np.int32(6), np.int32(1), np.int32(3), np.int32(5)]
+Solu��o 88: [np.int32(7), np.int32(5), np.int32(3), np.int32(1), np.int32(6), np.int32(8), np.int32(2), np.int32(4)]
+Solu��o 89: [np.int32(8), np.int32(2), np.int32(4), np.int32(1), np.int32(7), np.int32(5), np.int32(3), np.int32(6)]
+Solu��o 90: [np.int32(8), np.int32(2), np.int32(5), np.int32(3), np.int32(1), np.int32(7), np.int32(4), np.int32(6)]
+Solu��o 91: [np.int32(8), np.int32(3), np.int32(1), np.int32(6), np.int32(2), np.int32(5), np.int32(7), np.int32(4)]
+Solu��o 92: [np.int32(8), np.int32(4), np.int32(1), np.int32(3), np.int32(6), np.int32(2), np.int32(7), np.int32(5)]
+
+
+ESTAT�STICAS:
+Tentativas: 4213
+Itera��es totais: 49,800,446
+Tempo total: 1842.33s
+Taxa de sucesso: 42.2%
+
+
+CUSTO COMPUTACIONAL:
+  Total de tentativas: 4213
+  Soluções únicas: 92
+  Soluções repetidas: 1684
+  Taxa de sucesso: 42.2%
+  Iterações totais: 49,800,446
+  Iterações médias: 11821
+  Tempo total: 1842.33s
+  Tempo médio/tentativa: 0.437s
+
+SOLUÇÕES NOVAS:
+  Iter mínima: 146
+  Iter máxima: 2450
+  Iter média: 579
